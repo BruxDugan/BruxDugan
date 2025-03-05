@@ -30,11 +30,6 @@ I am a **Business Information & Analytics** student at the **University of Denve
 - **Madden Challenge – Finalist** (Developed and pitched an AI-based training software model)
 - **Infographic Analytics Competition – Finalist** (Created AI & drone strategy for agriculture)
 
-## 🛠 Skills
-- **Programming:** Python, SQL, VBA
-- **Data Analytics:** Forecast Modeling, Optimization, Visualization (Tableau, Think-Cell)
-- **Tools:** Microsoft Excel, PowerPoint, Word
-- **Languages:** Conversational German
 
 ---
 ### 🚀 Let's Connect!
