@@ -3,8 +3,12 @@
 ## 📍 Denver, CO  | 📧 bruxjd@gmail.com | [LinkedIn](https://linkedin.com/in/brux-dugan)
 
 ## 📚 About Me
-I am a **Business Information & Analytics** student at the **University of Denver** (Class of 2026), passionate about leveraging data to drive strategic decision-making. With a **3.8 GPA**, I have excelled in courses such as **Data & Analysis, Automating Business Processes, and Information Management**.
 
+I am a dynamic and driven **Information & Analytics student** with a deep passion for harnessing the power of data to fuel strategic decision-making. My expertise spans **financial data modeling, predictive analytics, and advanced visualization techniques**, helping executives transform raw numbers into clear, actionable insights.
+
+With a blend of **technical proficiency and business acumen**, I specialize in crafting **data-driven models** that not only highlight key trends but also forecast future opportunities. My hands-on experience has refined my ability to distill **complex datasets** into intuitive narratives, ensuring precision in financial reporting and analysis.
+
+I thrive in **fast-paced, collaborative environments**, leveraging my analytical mindset to solve problems, optimize processes, and uncover growth opportunities. With a forward-thinking approach, I am committed to pushing the boundaries of innovation, continuously evolving my skill set to tackle challenges in the **ever-changing world of finance, data, and analytics**.
 
 
 ---
