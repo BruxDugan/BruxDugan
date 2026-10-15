@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Brux Dugan
+# Hi, I’m Brux Dugan
 
-## 📍 Denver, CO  | 📧 bruxjd@gmail.com | [LinkedIn](https://linkedin.com/in/brux-dugan)
+I’m pursuing an M.S. in Applied Quantitative Finance at the University of Denver, where I earned my B.S. in Business Information & Analytics. My interests center on quantitative equity research, alternative data, and building tools that turn financial data into investment insights.
 
-## 📚 About Me
+At **Artisan Partners’ APG Hedge**, I contributed to alpha model development, analyzed alternative datasets, and built Python pipelines and automated research tools to support equity investment decisions.
 
-I am a dynamic and driven **Information & Analytics student** with a deep passion for harnessing the power of data to fuel strategic decision-making. My expertise spans **financial data modeling, predictive analytics, and advanced visualization techniques**, helping executives transform raw numbers into clear, actionable insights.
+Previously, I worked in **Piper Sandler’s investment banking group**, developing cash flow models and automation tools for real estate-backed high-yield bonds. My background also includes capital markets advisory and corporate FP&A.
 
-With a blend of **technical proficiency and business acumen**, I specialize in crafting **data-driven models** that not only highlight key trends but also forecast future opportunities. My hands-on experience has refined my ability to distill **complex datasets** into intuitive narratives, ensuring precision in financial reporting and analysis.
+Here, I share projects exploring investment factors, statistical modeling, financial data pipelines, and portfolio risk.
 
-I thrive in **fast-paced, collaborative environments**, leveraging my analytical mindset to solve problems, optimize processes, and uncover growth opportunities. With a forward-thinking approach, I am committed to pushing the boundaries of innovation, continuously evolving my skill set to tackle challenges in the **ever-changing world of finance, data, and analytics**.
+**Tools:** Python · SQL · R · Excel · Snowflake · Tableau
 
+Outside of finance, you’ll find me fly fishing, mountaineering, playing hockey, or at a poker table.
 
----
-### 🚀 Let's Connect!
-I'm always open to new opportunities in **capital markets, financial analysis, and data-driven decision-making**. Feel free to reach out!
+## Contact
 
-📧 bruxjd@gmail.com | [LinkedIn](https://linkedin.com/in/brux-dugan)
+- **Email:** [bruxjd@gmail.com](mailto:bruxjd@gmail.com)
+- **Phone:** 312-871-9999
